@@ -1,0 +1,7 @@
+# Creds
+AccessCredentials.csv
+TejasGeo_credentials.csv
+
+#Chache
+__pycache__
+.vscode
