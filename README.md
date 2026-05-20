@@ -1,6 +1,5 @@
 # **Soil Moisture Analysis - Aperture Space**
 
-**Team:** Tejas Phanse, Qian Cheng (Seaqueue), Kumara Swamy Padari  
 **Course:** DS 5500 / CS 7980 - Spring 2026, Northeastern University Roux Institute  
 **Stakeholder:** Rory Dunn, Aperture Space, Inc.
 
